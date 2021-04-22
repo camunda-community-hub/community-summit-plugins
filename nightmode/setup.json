@@ -1,0 +1,6 @@
+{
+  "title": "Camunda Nightmode",
+  "description": "Adds a Dark Theme to Camunda Cockpit.",
+  "app": "Cockpit",
+  "type": "Custom Script"
+}
