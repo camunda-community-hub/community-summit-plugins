@@ -1,0 +1,6 @@
+{
+  "title": "Humble History",
+  "description": "Makes process history visible on Community Cockpit.",
+  "app": "Cockpit",
+  "type": "Custom Script"
+}
