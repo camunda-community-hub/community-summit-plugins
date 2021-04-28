@@ -1,0 +1,6 @@
+{
+  "title": "XKCD",
+  "description": "Adds a nice XKCD viewer",
+  "app": "Cockpit",
+  "type": "Custom Script"
+}
